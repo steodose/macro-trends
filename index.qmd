@@ -1,0 +1,10 @@
+---
+title: "Index"
+format: html
+---
+
+Welcome
+
+This website is your home for economic and financial analysis using data provided by the Federal Reserve Economic Database (FRED) from the St. Louis Fed.
+
+Read more at my blog Between the Pipes.

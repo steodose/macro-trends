@@ -1,0 +1,89 @@
+---
+title: "Macro Analysis"
+format:
+  html:
+    theme: cosmo
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+::: {.panel-tabset}
+
+```{python}
+
+import pandas as pd
+import plotly.express as px
+from fredapi import Fred
+
+# Fred API Key (keep private!)
+fred = Fred(api_key='9357b21a793f849a3ef134b4aab0d7a1')
+
+```
+
+### US GDP
+
+```{python}
+
+# ---- US GDP Data ----
+gdp_data = fred.get_series('GDP', observation_start='2000-01-01')
+gdp_df = gdp_data.reset_index()
+gdp_df.columns = ['Date', 'GDP']
+
+fig_gdp = px.line(
+    gdp_df,
+    x='Date',
+    y='GDP',
+    title='📈 US GDP Over Time',
+    labels={'GDP': 'GDP (Billions of Dollars)'}
+)
+fig_gdp.update_layout(margin=dict(t=60, b=40), height=500)
+fig_gdp.show()
+
+```
+
+
+### Consumer Sentiment
+
+```{python}
+
+# ---- University of Michigan Consumer Sentiment ----
+sentiment_data = fred.get_series('UMCSENT', observation_start='2000-01-01')
+sentiment_df = sentiment_data.reset_index()
+sentiment_df.columns = ['Date', 'Sentiment Index']
+
+fig_sentiment = px.line(
+    sentiment_df,
+    x='Date',
+    y='Sentiment Index',
+    title='📊 University of Michigan Consumer Sentiment',
+    labels={'Sentiment Index': 'Consumer Sentiment Index'}
+)
+fig_sentiment.update_layout(margin=dict(t=60, b=40), height=500)
+fig_sentiment.show()
+
+```
+
+### Unemployment Rate
+
+```{python}
+
+# ---- Unemployment Rate ----
+unemployment_data = fred.get_series('UNRATE', observation_start='2000-01-01')
+unemployment_df = unemployment_data.reset_index()
+unemployment_df.columns = ['Date', 'Unemployment Rate']
+
+fig_unemployment = px.line(
+    unemployment_df,
+    x='Date',
+    y='Unemployment Rate',
+    title='📊 US Unemployment Rate',
+    labels={'Unemployment Rate': 'Unemployment Rate (%)'}
+)
+fig_unemployment.update_layout(margin=dict(t=60, b=40), height=500)
+fig_unemployment.show()
+
+```
+
+:::

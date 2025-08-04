@@ -1,0 +1,26 @@
+project:
+  type: website
+
+execute:
+  python: venv/bin/python
+
+website:
+  title: "Economic Pulse"
+  navbar:
+    background: primary
+    foreground: light
+    logo: fred-logo.svg
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Markets"
+        href: sp500.qmd
+      - text: "Macro"
+        href: cpi.qmd
+      - text: "About"
+        href: about.qmd
+  page-footer: "A Between The Pipes Project"
+
+format:
+  html:
+    theme: cosmo

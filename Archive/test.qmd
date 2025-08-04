@@ -1,0 +1,21 @@
+---
+title: "Tabset Test"
+format: html
+---
+
+::: {.panel-tabset}
+
+### One
+
+```{python}
+print("Hello from tab one")
+
+```
+
+### Two
+```{python}
+print("Hello from tab two")
+
+```
+
+:::

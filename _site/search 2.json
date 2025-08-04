@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "Welcome\nThis website is your home for economic and financial analysis using data provided by the Federal Reserve Economic Database (FRED).\nRead more at my blog Between the Pipes."
+  },
+  {
+    "objectID": "SP500.html",
+    "href": "SP500.html",
+    "title": "S&P 500 Historical Returns",
+    "section": "",
+    "text": "The below shows the monthly change in S&P500 returns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nS&P 500 Monthly Performance\n\n\nMonth over month performance of the S&P500 index.\n\n\nYear\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nNov\nDec\n\n\n\n\n2025\nNA\n−1.4\n−5.8\n−0.8\n6.2\n5.0\nNA\nNA\nNA\nNA\nNA\nNA\n\n\n2024\nNA\n5.2\n3.1\n−4.2\n4.8\n3.5\n1.1\n2.3\n2.0\n−1.0\n5.7\n−2.5\n\n\n2023\nNA\n−2.6\n3.5\n1.5\n0.2\n6.5\n3.1\n−1.8\n−4.9\n−2.2\n8.9\n4.4\n\n\n2022\nNA\n−3.1\n3.6\n−8.8\n0.0\n−8.4\n9.1\n−4.2\n−9.3\n8.0\n5.4\n−5.9\n\n\n2021\nNA\n2.6\n4.2\n5.2\n0.5\n2.2\n2.3\n2.9\n−4.8\n6.9\n−0.8\n4.4\n\n\n2020\nNA\n−8.4\n−12.5\n12.7\n4.5\n1.8\n5.5\n7.0\n−3.9\n−2.8\n10.8\n3.7\n\n\n2019\nNA\n3.0\n1.8\n3.9\n−6.6\n6.9\n1.3\n−1.8\n1.7\n2.0\n3.4\n2.9\n\n\n2018\nNA\n−3.9\n−2.7\n0.3\n2.2\n0.5\n3.6\n3.0\n0.4\n−6.9\n1.8\n−9.2\n\n\n2017\nNA\n3.7\n0.0\n0.9\n1.2\n0.5\n1.9\n0.1\n1.9\n2.2\n2.8\n1.0\n\n\n2016\nNA\n−0.4\n6.6\n0.3\n1.5\n0.1\n3.6\n−0.1\n−0.1\n−1.9\n3.4\n1.8\n\n\n2015\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n−6.3\n−2.6\n8.3\n0.1\n−1.8\n\n\n\nDATA: FREDTABLE: @steodosescu"
+  },
+  {
+    "objectID": "SP500.html#sp-500-analysis",
+    "href": "SP500.html#sp-500-analysis",
+    "title": "S&P 500 Historical Returns",
+    "section": "",
+    "text": "The below shows the monthly change in S&P500 returns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nS&P 500 Monthly Performance\n\n\nMonth over month performance of the S&P500 index.\n\n\nYear\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nNov\nDec\n\n\n\n\n2025\nNA\n−1.4\n−5.8\n−0.8\n6.2\n5.0\nNA\nNA\nNA\nNA\nNA\nNA\n\n\n2024\nNA\n5.2\n3.1\n−4.2\n4.8\n3.5\n1.1\n2.3\n2.0\n−1.0\n5.7\n−2.5\n\n\n2023\nNA\n−2.6\n3.5\n1.5\n0.2\n6.5\n3.1\n−1.8\n−4.9\n−2.2\n8.9\n4.4\n\n\n2022\nNA\n−3.1\n3.6\n−8.8\n0.0\n−8.4\n9.1\n−4.2\n−9.3\n8.0\n5.4\n−5.9\n\n\n2021\nNA\n2.6\n4.2\n5.2\n0.5\n2.2\n2.3\n2.9\n−4.8\n6.9\n−0.8\n4.4\n\n\n2020\nNA\n−8.4\n−12.5\n12.7\n4.5\n1.8\n5.5\n7.0\n−3.9\n−2.8\n10.8\n3.7\n\n\n2019\nNA\n3.0\n1.8\n3.9\n−6.6\n6.9\n1.3\n−1.8\n1.7\n2.0\n3.4\n2.9\n\n\n2018\nNA\n−3.9\n−2.7\n0.3\n2.2\n0.5\n3.6\n3.0\n0.4\n−6.9\n1.8\n−9.2\n\n\n2017\nNA\n3.7\n0.0\n0.9\n1.2\n0.5\n1.9\n0.1\n1.9\n2.2\n2.8\n1.0\n\n\n2016\nNA\n−0.4\n6.6\n0.3\n1.5\n0.1\n3.6\n−0.1\n−0.1\n−1.9\n3.4\n1.8\n\n\n2015\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n−6.3\n−2.6\n8.3\n0.1\n−1.8\n\n\n\nDATA: FREDTABLE: @steodosescu"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nComing Soon…"
+  },
+  {
+    "objectID": "cpi.html",
+    "href": "cpi.html",
+    "title": "Macro Analysis",
+    "section": "",
+    "text": "2000-01-01    10002.179\n2000-04-01    10247.720\n2000-07-01    10318.165\n2000-10-01    10435.744\n2001-01-01    10470.231\n                ...    \n2024-01-01    28624.069\n2024-04-01    29016.714\n2024-07-01    29374.914\n2024-10-01    29723.864\n2025-01-01    29962.047\nLength: 101, dtype: float64"
+  },
+  {
+    "objectID": "cpi.html#macroeconmic-indicators",
+    "href": "cpi.html#macroeconmic-indicators",
+    "title": "Macro Analysis",
+    "section": "",
+    "text": "2000-01-01    10002.179\n2000-04-01    10247.720\n2000-07-01    10318.165\n2000-10-01    10435.744\n2001-01-01    10470.231\n                ...    \n2024-01-01    28624.069\n2024-04-01    29016.714\n2024-07-01    29374.914\n2024-10-01    29723.864\n2025-01-01    29962.047\nLength: 101, dtype: float64"
+  }
+]
