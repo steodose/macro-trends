@@ -21,7 +21,7 @@ jobs:
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: "latest"
+          version: "1.4.553"
 
       - name: Install Python dependencies
         run: |
