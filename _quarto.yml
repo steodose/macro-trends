@@ -13,13 +13,13 @@ website:
     logo: fred-logo.svg
     left:
       - text: "Home"
-        href: index.qmd
+        href: index.html
       - text: "Markets"
-        href: sp500.qmd
+        href: sp500.html
       - text: "Macro"
-        href: cpi.qmd
+        href: cpi.html
       - text: "About"
-        href: about.qmd
+        href: about.html
   page-footer: "A Between The Pipes Project"
 
 format:
