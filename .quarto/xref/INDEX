@@ -13,5 +13,11 @@
   },
   "test.qmd": {
     "test.html": "688bd0a3"
+  },
+  "Archive/test.qmd": {
+    "test.html": "5bba872e"
+  },
+  "docs/sp500.qmd": {
+    "sp500.html": "730985bf"
   }
 }
