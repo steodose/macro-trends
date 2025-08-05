@@ -1,0 +1,40 @@
+name: Render and Deploy Quarto Site
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # Every day at 8 AM UTC
+  workflow_dispatch:       # Allow manual trigger too
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: "latest"
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Render site
+        run: |
+          quarto render
+
+      - name: Commit and push rendered site
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/
+          git commit -m "Automated render: $(date -u +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin main
