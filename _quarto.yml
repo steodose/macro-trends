@@ -15,7 +15,7 @@ website:
       - text: "Home"
         href: index.html
       - text: "Markets"
-        href: sp500.html
+        href: SP500.html
       - text: "Macro"
         href: cpi.html
       - text: "About"
