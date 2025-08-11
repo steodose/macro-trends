@@ -91,7 +91,7 @@ fig_unemployment.show()
 ***
 ### Glossary
 
-**GDP:** GDP, or Gross Domestic Product, is a comprehensive measure of the total market value of all final goods and services produced within a country's borders in a specific time period, usually a year. It reflects the size and health of a nation's economy. The above shows quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.
+**GDP:** Gross Domestic Product, is a comprehensive measure of the total market value of all final goods and services produced within a country's borders in a specific time period, usually a year. It reflects the size and health of a nation's economy. The above shows quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.
 
 **Consumer Sentiment:** The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy. Higher values indicate greater confidence, often linked to stronger consumer spending.
 

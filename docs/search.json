@@ -4,7 +4,7 @@
     "href": "cpi.html",
     "title": "Macro Analysis",
     "section": "",
-    "text": "US GDPConsumer SentimentUnemployment Rate\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\nGlossary\nGDP: GDP, or Gross Domestic Product, is a comprehensive measure of the total market value of all final goods and services produced within a country’s borders in a specific time period, usually a year. It reflects the size and health of a nation’s economy. The above shows quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.\nConsumer Sentiment: The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy. Higher values indicate greater confidence, often linked to stronger consumer spending.\nInflation (CPI): The year-over-year percentage change in the Consumer Price Index, a measure of price changes for goods and services. Higher CPI growth means rising inflation; negative values indicate deflation.\nUnemployment Rate: The percentage of the labor force that is unemployed and actively seeking work. A falling unemployment rate generally signals labor market strength, while a rising rate may indicate economic weakness.\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
+    "text": "US GDPConsumer SentimentUnemployment Rate\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\nGlossary\nGDP: Gross Domestic Product, is a comprehensive measure of the total market value of all final goods and services produced within a country’s borders in a specific time period, usually a year. It reflects the size and health of a nation’s economy. The above shows quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.\nConsumer Sentiment: The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy. Higher values indicate greater confidence, often linked to stronger consumer spending.\nInflation (CPI): The year-over-year percentage change in the Consumer Price Index, a measure of price changes for goods and services. Higher CPI growth means rising inflation; negative values indicate deflation.\nUnemployment Rate: The percentage of the labor force that is unemployed and actively seeking work. A falling unemployment rate generally signals labor market strength, while a rising rate may indicate economic weakness.\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
   },
   {
     "objectID": "index.html",
@@ -32,48 +32,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This site provides a curated set of economic and market indicators, updated daily, to give a snapshot of U.S. macroeconomic trends and financial market performance.\nEach chart is interactive and designed for quick interpretation.\n\n\n\nWhat it shows: The historical performance of the S&P 500 index, including monthly returns heatmaps and a daily price chart.\nHow to read it:\n- In the Monthly Returns heatmap, warmer colors indicate stronger returns, cooler colors indicate weaker or negative returns.\n- The Daily Chart shows closing prices over time. Hover over any point to see the exact date and value.\n\n\n\n\nWhat it shows: The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy.\nHow to read it: Higher values indicate greater confidence, often linked to stronger consumer spending.\n\n\n\n\nWhat it shows: Quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.\nHow to read it: Bars above zero indicate economic expansion; bars below zero indicate contraction.\n\n\n\n\nWhat it shows: The percentage of the labor force that is unemployed and actively seeking work.\nHow to read it: A falling unemployment rate generally signals labor market strength, while a rising rate may indicate economic weakness.\n\n\n\n\nWhat it shows: The year-over-year percentage change in the Consumer Price Index, a measure of price changes for goods and services.\nHow to read it: Higher CPI growth means rising inflation; negative values indicate deflation.\n\n\n\n\nWhat it shows: Indexed price trends for major asset classes, including Bitcoin, the Nasdaq-100, the S&P 500, home prices, and commodity prices, all rebased to January 2021.\nHow to read it: All series start at 100 in Jan 2021; values above 100 show growth since then, values below 100 show declines.\n\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
-  },
-  {
-    "objectID": "about.html#sp-500-performance",
-    "href": "about.html#sp-500-performance",
-    "title": "About",
-    "section": "",
-    "text": "What it shows: The historical performance of the S&P 500 index, including monthly returns heatmaps and a daily price chart.\nHow to read it:\n- In the Monthly Returns heatmap, warmer colors indicate stronger returns, cooler colors indicate weaker or negative returns.\n- The Daily Chart shows closing prices over time. Hover over any point to see the exact date and value."
-  },
-  {
-    "objectID": "about.html#consumer-sentiment",
-    "href": "about.html#consumer-sentiment",
-    "title": "About",
-    "section": "",
-    "text": "What it shows: The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy.\nHow to read it: Higher values indicate greater confidence, often linked to stronger consumer spending."
-  },
-  {
-    "objectID": "about.html#gdp-growth",
-    "href": "about.html#gdp-growth",
-    "title": "About",
-    "section": "",
-    "text": "What it shows: Quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.\nHow to read it: Bars above zero indicate economic expansion; bars below zero indicate contraction."
-  },
-  {
-    "objectID": "about.html#unemployment-rate",
-    "href": "about.html#unemployment-rate",
-    "title": "About",
-    "section": "",
-    "text": "What it shows: The percentage of the labor force that is unemployed and actively seeking work.\nHow to read it: A falling unemployment rate generally signals labor market strength, while a rising rate may indicate economic weakness."
-  },
-  {
-    "objectID": "about.html#inflation-cpi",
-    "href": "about.html#inflation-cpi",
-    "title": "About",
-    "section": "",
-    "text": "What it shows: The year-over-year percentage change in the Consumer Price Index, a measure of price changes for goods and services.\nHow to read it: Higher CPI growth means rising inflation; negative values indicate deflation."
-  },
-  {
-    "objectID": "about.html#asset-prices",
-    "href": "about.html#asset-prices",
-    "title": "About",
-    "section": "",
-    "text": "What it shows: Indexed price trends for major asset classes, including Bitcoin, the Nasdaq-100, the S&P 500, home prices, and commodity prices, all rebased to January 2021.\nHow to read it: All series start at 100 in Jan 2021; values above 100 show growth since then, values below 100 show declines.\n\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
+    "text": "This site provides a curated set of economic and market indicators, updated daily and/or monthly, to give a snapshot of U.S. macroeconomic trends and financial market performance.\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
   }
 ]
