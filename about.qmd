@@ -3,6 +3,49 @@ title: "About"
 format: html
 ---
 
-About
+# About This Dashboard
 
-Coming Soon...
+This site provides a curated set of economic and market indicators, updated daily, to give a snapshot of U.S. macroeconomic trends and financial market performance.  
+Each chart is interactive and designed for quick interpretation.
+
+---
+
+## S&P 500 Performance
+**What it shows:** The historical performance of the S&P 500 index, including monthly returns heatmaps and a daily price chart.  
+**How to read it:**  
+- In the Monthly Returns heatmap, warmer colors indicate stronger returns, cooler colors indicate weaker or negative returns.  
+- The Daily Chart shows closing prices over time. Hover over any point to see the exact date and value.
+
+---
+
+## Consumer Sentiment
+**What it shows:** The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy.  
+**How to read it:** Higher values indicate greater confidence, often linked to stronger consumer spending.
+
+---
+
+## GDP Growth
+**What it shows:** Quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.  
+**How to read it:** Bars above zero indicate economic expansion; bars below zero indicate contraction.
+
+---
+
+## Unemployment Rate
+**What it shows:** The percentage of the labor force that is unemployed and actively seeking work.  
+**How to read it:** A falling unemployment rate generally signals labor market strength, while a rising rate may indicate economic weakness.
+
+---
+
+## Inflation (CPI)
+**What it shows:** The year-over-year percentage change in the Consumer Price Index, a measure of price changes for goods and services.  
+**How to read it:** Higher CPI growth means rising inflation; negative values indicate deflation.
+
+---
+
+## Asset Prices
+**What it shows:** Indexed price trends for major asset classes, including Bitcoin, the Nasdaq-100, the S&P 500, home prices, and commodity prices, all rebased to January 2021.  
+**How to read it:** All series start at 100 in Jan 2021; values above 100 show growth since then, values below 100 show declines.
+
+---
+
+**Tip:** Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis.

@@ -1,5 +1,5 @@
 ---
-title: "S&P 500 Historical Returns"
+title: "S&P 500 Returns"
 format:
   html:
     theme: cosmo
@@ -55,7 +55,7 @@ pivot = pivot.sort_index(ascending=False).round(1).reset_index()
     GT(pivot)
     .data_color(
         domain=[30, -30],
-        palette=["rebeccapurple", "white", "orange"],
+        palette=["green", "white", "red"],
         na_color="white",
     )
     .tab_header(
@@ -69,9 +69,22 @@ pivot = pivot.sort_index(ascending=False).round(1).reset_index()
 )
 ```
 
+
 ### Daily Chart
 
 ```{python}
+from IPython.display import Markdown
+
+_last = sp500.sort_values("Date").iloc[-1]
+Markdown(
+    f"As of the latest close on **{_last['Date'].strftime('%B %d, %Y')}**, "
+    f"the S&P 500 closed at **{_last['Value']:,.2f}**."
+)
+
+```
+
+
+```{python, echo: false}
 import plotly.graph_objects as go
 
 # Ensure proper datetime formatting
@@ -86,7 +99,12 @@ fig_daily.update_layout(
     title="Daily S&P 500 Price",
     xaxis_title="Date",
     yaxis_title="S&P 500 Value",
-    template="plotly_white"
+    template="plotly_white",
+    hovermode="x unified",
+    xaxis=dict(
+        tickformat="%b %d, %Y",
+        hoverformat="%b %d, %Y"
+    )
 )
 
 fig_daily.show()
