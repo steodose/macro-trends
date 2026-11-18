@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "Archive/test.html",
-    "href": "Archive/test.html",
-    "title": "Tabset Test",
-    "section": "",
-    "text": "OneTwo\n\n\n\nprint(\"Hello from tab one\")\n\nHello from tab one\n\n\n\n\n\nprint(\"Hello from tab two\")\n\nHello from tab two"
-  },
-  {
-    "objectID": "cpi.html",
-    "href": "cpi.html",
-    "title": "Macro Analysis",
-    "section": "",
-    "text": "US GDPConsumer SentimentUnemployment Rate\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\nGlossary\nGDP: Gross Domestic Product, is a comprehensive measure of the total market value of all final goods and services produced within a country’s borders in a specific time period, usually a year. It reflects the size and health of a nation’s economy. The above shows quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.\nConsumer Sentiment: The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy. Higher values indicate greater confidence, often linked to stronger consumer spending.\nInflation (CPI): The year-over-year percentage change in the Consumer Price Index, a measure of price changes for goods and services. Higher CPI growth means rising inflation; negative values indicate deflation.\nUnemployment Rate: The percentage of the labor force that is unemployed and actively seeking work. A falling unemployment rate generally signals labor market strength, while a rising rate may indicate economic weakness.\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
-  },
-  {
     "objectID": "SP500.html",
     "href": "SP500.html",
     "title": "S&P 500 Returns",
@@ -28,10 +14,24 @@
     "text": "Welcome\nThis website is your home for economic and financial analysis using data provided by the Federal Reserve Economic Database (FRED) from the St. Louis Fed.\nRead more at my blog Between the Pipes."
   },
   {
+    "objectID": "Archive/test.html",
+    "href": "Archive/test.html",
+    "title": "Tabset Test",
+    "section": "",
+    "text": "OneTwo\n\n\n\nprint(\"Hello from tab one\")\n\nHello from tab one\n\n\n\n\n\nprint(\"Hello from tab two\")\n\nHello from tab two"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "This site provides a curated set of economic and market indicators, updated daily and/or monthly, to give a snapshot of U.S. macroeconomic trends and financial market performance.\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
+  },
+  {
+    "objectID": "cpi.html",
+    "href": "cpi.html",
+    "title": "Macro Analysis",
+    "section": "",
+    "text": "US GDPConsumer SentimentUnemployment Rate\n\n\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n                            \n                                            \n\n\n\n\n\n\n\nGlossary\nGDP: Gross Domestic Product, is a comprehensive measure of the total market value of all final goods and services produced within a country’s borders in a specific time period, usually a year. It reflects the size and health of a nation’s economy. The above shows quarterly changes in U.S. real Gross Domestic Product (GDP), adjusted for inflation.\nConsumer Sentiment: The University of Michigan’s Consumer Sentiment Index, a measure of how optimistic or pessimistic consumers feel about the economy. Higher values indicate greater confidence, often linked to stronger consumer spending.\nInflation (CPI): The year-over-year percentage change in the Consumer Price Index, a measure of price changes for goods and services. Higher CPI growth means rising inflation; negative values indicate deflation.\nUnemployment Rate: The percentage of the labor force that is unemployed and actively seeking work. A falling unemployment rate generally signals labor market strength, while a rising rate may indicate economic weakness.\nTip: Hover over any chart to see exact values and dates. Most charts allow zooming and panning for closer analysis."
   }
 ]
